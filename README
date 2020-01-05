@@ -1,0 +1,8 @@
+This program is a K-12 teaching tool, hence the name: Homeroom Helper. I interviewed and worked with several primary schoolteachers who
+informed me that no tracking tool exists for student reading levels; hence, this program was created.
+
+The program itself is a simple database application.  The user may add students and student data to the database, and can pull up
+analytics to see how students are doing and track the class as a whole. This is done through a simple UI using .NET WinForms in C#.
+
+This repository of the program is the final, submitted version.  The working version remains on my private school account, but I decided
+to upload a copy here as a part of my professional portfolio. 
